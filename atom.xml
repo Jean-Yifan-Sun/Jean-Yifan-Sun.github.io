@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jean-yifan-sun.github.io</id>
+    <title>Yifan SUN - 孙一凡</title>
+    <updated>2023-12-03T14:56:27.362Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jean-yifan-sun.github.io"/>
+    <link rel="self" href="https://jean-yifan-sun.github.io/atom.xml"/>
+    <subtitle>My Personal Page  &lt;br/&gt;
+E-mail: sunyifanjean@buaa.edu.cn</subtitle>
+    <logo>https://jean-yifan-sun.github.io/images/avatar.png</logo>
+    <icon>https://jean-yifan-sun.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Yifan SUN - 孙一凡</rights>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://jean-yifan-sun.github.io/post/about-me/</id>
+        <link href="https://jean-yifan-sun.github.io/post/about-me/">
+        </link>
+        <updated>2023-11-07T12:00:00.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<blockquote>
+<p>Hello guys, I am Yifan Sun 孙一凡! Let me talk about myself in some short languages!<br>
+<img src="https://jean-yifan-sun.github.io/post-images/1699357303638.jpeg" alt="" loading="lazy"></p>
+</blockquote>
+<h2 id="education-background">🎓 Education Background</h2>
+<p>I am currently pursing a master's degree (2021.9-2024.6) in <strong>Electronics and Information</strong> at  <a href="https://ecpkn.buaa.edu.cn/">École Centrale de Pékin</a>, <a href="https://ev.buaa.edu.cn/">Beihang University</a> (China), and my engineer degree (diplôme d'ingénieur) at École Centrale de Pékin, <a href="https://www.groupe-centrale.com/">Groupe des Écoles Centrale</a> (France), supervised by Prof Meng Song.</p>
+<p>Before that, I obtained my BSc degree (2017.9-2021.7) in <strong>Mathematics and Applied Mathematics</strong> from École Centrale de Pékin, Beihang University.</p>
+<h2 id="research-interest">🔍 Research Interest</h2>
+<p>My research interest mainly lies in privacy-preserving deep learning and its applications. During my graduate program, my research goal is to apply differential privacy (DP) to graph convolutional networks (GCN) in defense against membership inference attacks (MIA) in node, edge, and graph classification contexts. With these networks, we could build reliable and robust graph learning systems without worrying about potential privacy leakage risks.</p>
+<p>I also invest in privacy-preserving issues in IoT and Natural Language Processing scenarios, such as the application of other privacy-preserving methodologies like physically unclonable functions (PUF) and secure multi-party computation (MPC) in real-world contexts, as well as privacy attack methodologies like membership inference attacks and backdoor injection attacks.</p>
+<h2 id="more-about-me">🧢 More about me</h2>
+<p>🎸I love listening to rock music, my favorite bands are Led Zeppelin and Oasis!<br>
+🗺️I enjoy traveling, especially road trips!<br>
+⛹️‍♂️I also love playing basketball and badminton!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Curriculum Vitae]]></title>
+        <id>https://jean-yifan-sun.github.io/post/my-curriculum-vitae/</id>
+        <link href="https://jean-yifan-sun.github.io/post/my-curriculum-vitae/">
+        </link>
+        <updated>2023-11-07T11:30:20.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>This is my formal CV. Please click <a href="https://drive.google.com/file/d/1EHuvDjhX7jmsudSeyi8YGEID1CSGbc1F/view?usp=share_link">HERE</a> to review the PDF file.<br>
+<img src="https://jean-yifan-sun.github.io/post-images/1699357234032.jpeg" alt="" loading="lazy"></p>
+</blockquote>
+<h2 id="bio">BIO</h2>
+<p>I am a master’s student (<em>2021.9 – 2024.6</em>) at the Information Science Lab of <a href="https://ecpkn.buaa.edu.cn/">École Centrale Pékin</a> (Sino-French Engineering School), <a href="https://ev.buaa.edu.cn/">Beihang University</a> (Beijing, China), supervised by <a href="https://ecpkn.buaa.edu.cn/info/1968/4607.htm">Prof. Meng Song</a>. I am currently pursuing a master’s degree in Electronics and Information at Beihang University, École Centrale Pékin, and an Engineer degree from <a href="https://www.groupe-centrale.com/">Groupe des Écoles Centrale</a> (France). Before that, I received my BSc degree in Mathematics and Applied Mathematics from Beihang University, École Centrale Pékin (<em>2017.9 – 2021.6</em>).</p>
+<p>My research interest primarily focuses on privacy-preserving deep learning, particularly differential private (DP) deep learning. The objective of my graduate program is to employ differential privacy techniques to safeguard graph convolutional networks (GCN) against membership inference attacks (MIA) in contexts involving node, edge, and graph classification. Since graph learning benefits from leveraging additional structural information inherent in graph-structured data, my main motivation lies in exploring the potential applications of graph neural networks (GNN) while addressing their vulnerability to privacy breaches. Furthermore, I am also interested in privacy-preserving deep learning in distributed systems, such as utilizing methodologies like federated learning (FL) for privacy-preserving deep learning and applying physically unclonable functions (PUFs) for secure device recognition in real-world scenarios. I am interested in studying privacy attack methodologies as well, including model extraction attacks and membership inference attacks.</p>
+<h2 id="education">EDUCATION</h2>
+<p><strong>MSc, Electronics and Information</strong> (<em>2021.9 - 2024.6</em>)<br>
+Beihang University, Sino-French Engineering School</p>
+<p><strong>BSc, Mathematics and Applied Mathematics</strong> (<em>2017.9 - 2021.6</em>)<br>
+Beihang University, Sino-French Engineering School</p>
+<h2 id="internships-ra">INTERNSHIPS &amp; RA</h2>
+<p><strong>Research Assistant</strong><br>
+<strong>Chinese University of Hong Kong (Shenzhen, China)</strong> (<em>2023.11 – 2024.1</em>)<br>
+I am participating in <a href="https://myweb.cuhk.edu.cn/zhengyue">Prof. Yue Zheng</a> ’s team as a research assistant at CUHK (Shenzhen), with a research topic regarding AI for Security and Security of AI in IoT context. Currently we focus on using deep learning (CNN+ML) to process DRAM PUFs in order to create secure and lightweight end-to-end device recognition in IoT context.</p>
+<p><strong>Security &amp; Governance Algorithm Intern</strong><br>
+<strong>AI Group, <a href="https://zhihu.com">Zhihu</a>.Inc (Beijing, China)</strong> (<em>2023.2 – 2023.7</em>)<br>
+I participated in a five-month internship as a Security &amp; Governance Algorithm intern at Zhihu.Inc, Beijing, China. My work duty mainly falls on the utilization and improvement of security and governance algorithms used at <a href="https://zhihu.com">zhihu.com</a>, the largest Chinese online Q&amp;A forum. Here are my key contributions.</p>
+<ol>
+<li>
+<p>Image classification task: crowd-gathering image classification model.<br>
+Training a binary image classification model. By finetuning on 3 backbone networks with different neg-sample ratios, the best model after evaluation (90% Acc &amp; 82% Recall) was submitted as a service.</p>
+</li>
+<li>
+<p>General Large Language Model Evaluation Task/Dataset Collection.<br>
+Researching the existing large model evaluation work and giving the task capability breakdown, then collecting representative Chinese/English datasets under each task and giving the mapping schema, prompt, and evaluation index.</p>
+</li>
+<li>
+<p>Variant-text recognition task.<br>
+Using Chinese-RoBERTa3 as the backbone network to finetune a variant-text recognition model. To solve the inconsistency between online and offline inference, I solved the problem that in the pre-processing process the tokenizer online and offline were not aligned. The final metric is 95% Acc with 88% Recall.</p>
+</li>
+<li>
+<p>Model Inference Consistency Special Task.<br>
+To address the problem of DNNs’ catastrophic forgetting when we regularly update our model, it is critical to improve the new model’s recall on the old model within the same task. Initially, I used the new model to infer the training set of the old model and re-add false negative samples (e.g., positive samples with low model scores) in the new model's training set for retraining. After conducting experiments with different thresholds, the new model improved the recall by 53% relatively (29.32% - 44.86%). The next step would be to find more similar samples of low-scoring samples by clustering their embedding vectors.</p>
+</li>
+</ol>
+<p><strong>Machine Learning Intern</strong><br>
+<strong>Machine Learning Group, ZhiNeng Tech.Inc (Beijing, China)</strong> (<em>2022.7 – 2022.11</em>)<br>
+I participated in a four-month internship as a Machine Learning Intern at <a href="https://www.linkedin.com/in/terry-liu-a626ab217/">ZhiNeng Tech. Inc</a> Beijing, China. Here are my key contributions.</p>
+<ol>
+<li>
+<p>Electricity Trading Project<br>
+Building a deep learning model (Resnet50) to make a time-series forecast of daily electricity load data and implementing iterative optimization based on result analysis. Predicting rolling market prices on electricity trading days using machine learning methods (Ensemble).</p>
+</li>
+<li>
+<p>Trading Strategy Project<br>
+Collating real market data and forecast data at all levels and analyzing and verifying the profit and loss of different trading strategies.</p>
+</li>
+<li>
+<p>Air Pollutant Traceability Project<br>
+Building and optimizing a Gaussian smoke-cluster model to simulate the emission of air pollutants.</p>
+</li>
+</ol>
+<h2 id="research-project">RESEARCH PROJECT</h2>
+<p><strong>Simulation model for componentized mechanistic of aircraft</strong> (<em>2021.9 – 2022.5</em>)<br>
+The project sponsor is <a href="http://www.casic.com.cn/index.html">China Aerospace Science and Industry Corporation Limited</a> (CASIC) II. The task requires static and dynamic system modeling and simulation for componentized aircraft as well as missiles based on mechanical knowledge and classical control theory using Sysml language. Received Outstanding Project of the Year Award by Sino-French Engineering School, Beihang University.</p>
+<p><strong>A Study of Differential Privacy in Recommendation Systems</strong> (<em>2021.4 – 2022.1</em>)<br>
+Collaboration with <a href="https://www.orange-business.com/en/regions/asia-pacific">Orange</a> (Beijing) to study the application of differential privacy and federation learning in recommendation systems. Based on TensorFlow 1., the project aimed to study the performance of NCF and DSSM recommendation algorithms combined with federated learning and differential privacy on the MIND news dataset.</p>
+<p><strong>Installation and debugging of materials science software and interface construction</strong> (<em>2020.9 – 2021.5</em>)<br>
+The whole project was based on the High-Performance Computing Center platform under the Linux system, therefore I obtained a preliminary understanding of the Linux system and software compilation process, and parallel computing using MPI protocol.</p>
+<h2 id="technics-linguistics">TECHNICS &amp; LINGUISTICS</h2>
+<p><strong>English:</strong> IETLS: 7.5 (8.5 in Listening)<br>
+<strong>French:</strong> 6 years of French education experience<br>
+<strong>Coding:</strong> Python, C/C++, Matlab<br>
+<strong>DL:</strong> Pytorch, TensorFlow, Scikit-learn</p>
+]]></content>
+    </entry>
+</feed>
